@@ -6,6 +6,6 @@
 
 <li><a href='https://public.tableau.com/views/landcoverEU/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link'>Tableau: Land Cover and Land Use in Europe </a> | <a href='https://github.com/gabrielalastra/LandcoverEU'>Project Directory</a></li>
 
-<li><a href=''>Tableau: </a> | <a href=''>Project Directory</a></li>
+<li><a href='https://public.tableau.com/views/Femicide_SP-BR/DashboardFeminicidio?:language=pt-BR&:display_count=n&:origin=viz_share_link'>Tableau: Femicide in the State of São Paulo - BR </a> | <a href='https://github.com/gabrielalastra/FemicidesSP'>Project Directory</a></li>
 
 <li><a href=''>Tableau: </a> | <a href=''>Project Directory</a></li>
